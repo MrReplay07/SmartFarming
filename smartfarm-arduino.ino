@@ -1,4 +1,4 @@
-#include <LiquidCrystal.h> //ประกาศส่วนหัว Library
+#include <LiquidCrystal.h> 
 #include <Wire.h>
 #include <SPI.h>
 #include <RTClib.h>
